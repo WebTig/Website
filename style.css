@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(86, 228, 247);
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    top: 100px;
+    font-size: 400%; 
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+}
