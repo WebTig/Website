@@ -16,3 +16,12 @@ p{
     font-size: 50px;
     font-family: Arial;
 }
+
+.box{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    top: 520px;
+    font-size: 50%;  
+}
